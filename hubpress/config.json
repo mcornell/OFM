@@ -30,7 +30,7 @@
     "logo": "",
     "cover": "",
     "delay": "",
-    "postsPerPage": "",
+    "postsPerPage": "10",
     "googleAnalytics": "",
     "disqus": ""
   },
