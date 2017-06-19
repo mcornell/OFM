@@ -5,6 +5,22 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://mcornell.github.io/OFM",
+    "hubpress": "https://mcornell.github.io/OFM",
+    "theme": "//mcornell.github.io/OFM/themes/casper",
+    "images": "https://mcornell.github.io/OFM/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ]
   }
 }
