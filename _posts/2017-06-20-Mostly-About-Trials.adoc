@@ -1,0 +1,23 @@
+= Mostly About Trials
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-06-20
+:hp-tags: Ocular_Melamoma,Clinical_Trials
+// :hp-alt-title: My English Title
+
+It's been about a month since I provided an update. 
+
+On May 30, I took my first dose of a drug called crizotinib.  It's an oral chemotherapy used in specific types of non-small-cell lung cancers.  However, tests have shown that it has the potential to help kill ocular melanoma cells by teaching the body how to find them and destroy them.
+
+A good write up for lay people on this trial can be found at https://www.mskcc.org/cancer-care/clinical-trials/14-063[Memorial Sloan Kettering].  The gritty details, for my friends who are doctors can be found at https://clinicaltrials.gov/ct2/show/NCT02223819[ClinicalTrials.gov].
+
+It's been three weeks of my first of 12 four week cycles. So far so good. I enjoyed a great vacation to Niagara Falls, Toronto and Cedar Point just 3 days after starting the trial.  Fatigue and staying hydrated were the only issues, but it was easily managed with the temperatures in the mid 60s to mid 70s.  I did have a challenge this weekend with the heat rising above 90 and have learned that I really need to take it easy.  Do bursts of yard work followed by air conditioning and hydration.  30-45 minutes outside, 30-45 minutes inside when the heat is bad.  
+
+I'm excited about this trial. There's only three in the world for anyone at my stage. The lead researcher, , has a slide show https://www.slideshare.net/MelanomaResearchFoundation/targeted-therapy-for-uveal-melanoma-richard-carvajal-md[here] that suggests this trial shows a lot of promise. For the lay person, the mouse slide, slide 10, is particularly exciting. I'm sure my doctor friends can message me with more details.
+
+I'm very lucky that I do not have to travel for this trial. Ohio State has the trial available and I'll be down there this time next week to pick up new medicine and get more blood work.  
+
+You'll notice that this is no longer a GitHub Gist, but is instead a blog post. Yes, I still have the old Blogger site at http://twofourone.blogspot.com[TwoFourOne], but I don't update it, and this subject deserves it's own space separate from that.
+
+So I decided to stay nerdy and use the https://github.com/hubpress[HubPress] platform. It's a browser based platform written in https://vuejs.org/[Vue.js]. It does what it needs to do, and it's not WordPress. Not that there's anything wrong with WordPress, I just didn't want to end up there yet.
+
