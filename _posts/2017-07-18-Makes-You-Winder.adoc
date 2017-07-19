@@ -1,4 +1,4 @@
-= Makes You Winder
+= Makes You Wonder
 // See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
 // :hp-image: /covers/cover.png
 :published_at: 2017-07-18
