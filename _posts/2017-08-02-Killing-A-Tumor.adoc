@@ -1,0 +1,14 @@
+= Killing A Tumor
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-08-02
+:hp-tags: Ocular_Melanoma, Brachytherapy, Anti_VEGF
+// :hp-alt-title: My English Title
+
+Today was the first time I got to take a look at my cancer site since I underwent brachytherapy to kill the tumor.  My results were good. The tumor had shrunk in height and diameter. Most importantly, the height appeared to have shrunk from over 7mm to less than 6mm.  The tumor has also shrunk in width.  I do not have a measurement, but it's clearly less than the 14mm it was before treatment. There is still a detached retina, but it is not as severe it was before treatment.  
+
+This is all great news. However, the vision in my eye has gone south. I felt like it was, but really couldn't tell due to the deterioration over time.  So the next step is an anti-VEGF treatment. Basically, the radiation which is killing the primary tumor is also causing blood vessels to close. That means the eye doesn't get the right about of blood supply...which means new blood vessels grow.  The new blood vessels basically hose your vision. An anti-VEGF treatment is supposed to stop the cascading effect by reducing leakage from the damaged blood vessels and stop new ones from being created.
+
+Hopefully my layperson explaination is at least 80% correct.  Either way, I'm hopeful this will help my vision at least stabilize while the tumor continues to die and my retina detachment continues to shrink.
+
+I've now been through two complete cycles of crizitonib. I'm dealing with three side effects at the moment. Fatigue, diarrhea, and swollen feet and ankles. Out of those three, the most annoying is fatigue.  I can deal with the other two. Drink a lot of fluids and elevate your feet.  Fatigue you can't do much to fix, other than rest.  I'm hopeful that I can start a simple exercise routine that will let me build my stamina up without knocking myself down too much.
