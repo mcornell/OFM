@@ -1,0 +1,30 @@
+= No Whammies!
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+// :hp-image: /covers/cover.png
+:published_at: 2017-08-22
+:hp-tags: Ocular_Melanoma, Press_Your_Luck
+// :hp-alt-title: My English Title
+
+Every three months I undergo CT scans of my pelvis and abdomen. Ocular Melanoma patients, especially those who are high risk, tend to have these scans every 3-6 months at the start of their treatment. Some patients end up having them yearly as they progress futher.
+
+My mind loves to relate experiences to things we've seen on television. And this feels like playing a classic 1980s game show.
+
+image::PYL.png[]
+
+Answer silly trivia questions, win spins. Yell "No Whammies!" Push the button to stop and hope you win something. Most folks want to win some things and then pass their spins onto another contestant so they can land on the Whammie and lose.
+
+image::whammy.png[]
+
+These scans are a lot like that, except there are no other contestants.  You're not allowed to pass your spins. Every scan you're hoping it doesn't land on the Whammy of metastasis. 
+
+Knowing this, you do whatever you can to increase your odds. For me it's a clinical trial, abstaining from alcohol, drinking as much fluids as I can, changing my diet so I eat more fish and a lot less red meat (none).
+
+It's my way of being Michael Larsen.
+
+image::larsen.gif[]
+
+If you've never read Larsen's story, you should. (https://priceonomics.com/the-man-who-got-no-whammies/) He beat the game. Every little thing I adjust in my life is about trying to be like Larsen memorizing the game board. 
+
+With unlimited spins, the only thing I can do is avoid the Whammy. Even when the spins slow down to every 6 months, all I can do is avoid the Whammy.  
+
+In the end, although we all hope to be like Michael Larson in the short term, in the long term we don't. Larson passed away from a battle with throat cancer.
